@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: "Fira sans", sans-serif;
 }
 .title{
     padding-top: 0.5%;
@@ -18,21 +19,23 @@ h1{
 #paragraphId p{
     display: flex;
     color: white;
-    text-align: justify;
+    text-align: justify; 
+    font-size: x-large;
 
 }
 
 .blocksText{
     padding: 30px;
-    background: darkblue;
+    background: rgb(45, 45, 90);
     margin-top: 20px;
+    color: white;
 
 
 }
 
 h2{
     border-radius: 100%;
-    background: green;
+    background: rgb(65, 163, 65);
     color: white;
     display: block;
     width: 30px;
